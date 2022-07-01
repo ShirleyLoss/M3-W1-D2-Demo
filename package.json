@@ -1,0 +1,14 @@
+{
+  "name": "expressdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exp_demo1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "author": "Miao Shi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
